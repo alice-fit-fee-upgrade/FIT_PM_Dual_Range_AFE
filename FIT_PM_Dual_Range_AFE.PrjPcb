@@ -446,8 +446,18 @@ UniqueId=F689439E-4FD9-4871-BFE6-AD8B271261DB
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=11
 Variation1=Designator=R103|UniqueId=\VRGVLWXQ\UOCVORJI\ZPMRIMEA|Kind=1|AlternatePart=
+Variation2=Designator=R145A|UniqueId=\1OXSRVPKN\JVRBBTOC\KXCHHORO|Kind=1|AlternatePart=
+Variation3=Designator=R145B|UniqueId=\2OXSRVPKN\JVRBBTOC\KXCHHORO|Kind=1|AlternatePart=
+Variation4=Designator=R152A|UniqueId=\1OXSRVPKN\JVRBBTOC\BMZLHGCO|Kind=1|AlternatePart=
+Variation5=Designator=R153A|UniqueId=\1OXSRVPKN\JVRBBTOC\PJQMPPQY|Kind=1|AlternatePart=
+Variation6=Designator=R154A|UniqueId=\1OXSRVPKN\JVRBBTOC\ARZDUJLN|Kind=1|AlternatePart=
+Variation7=Designator=R155A|UniqueId=\1OXSRVPKN\JVRBBTOC\EYCJHHLF|Kind=1|AlternatePart=
+Variation8=Designator=R152B|UniqueId=\2OXSRVPKN\JVRBBTOC\BMZLHGCO|Kind=1|AlternatePart=
+Variation9=Designator=R153B|UniqueId=\2OXSRVPKN\JVRBBTOC\PJQMPPQY|Kind=1|AlternatePart=
+Variation10=Designator=R154B|UniqueId=\2OXSRVPKN\JVRBBTOC\ARZDUJLN|Kind=1|AlternatePart=
+Variation11=Designator=R155B|UniqueId=\2OXSRVPKN\JVRBBTOC\EYCJHHLF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
