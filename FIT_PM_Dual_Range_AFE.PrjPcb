@@ -446,7 +446,7 @@ UniqueId=F689439E-4FD9-4871-BFE6-AD8B271261DB
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=11
+VariationCount=17
 Variation1=Designator=R103|UniqueId=\VRGVLWXQ\UOCVORJI\ZPMRIMEA|Kind=1|AlternatePart=
 Variation2=Designator=R145A|UniqueId=\1OXSRVPKN\JVRBBTOC\KXCHHORO|Kind=1|AlternatePart=
 Variation3=Designator=R145B|UniqueId=\2OXSRVPKN\JVRBBTOC\KXCHHORO|Kind=1|AlternatePart=
@@ -458,23 +458,13 @@ Variation8=Designator=R152B|UniqueId=\2OXSRVPKN\JVRBBTOC\BMZLHGCO|Kind=1|Alterna
 Variation9=Designator=R153B|UniqueId=\2OXSRVPKN\JVRBBTOC\PJQMPPQY|Kind=1|AlternatePart=
 Variation10=Designator=R154B|UniqueId=\2OXSRVPKN\JVRBBTOC\ARZDUJLN|Kind=1|AlternatePart=
 Variation11=Designator=R155B|UniqueId=\2OXSRVPKN\JVRBBTOC\EYCJHHLF|Kind=1|AlternatePart=
+Variation12=Designator=R21A|UniqueId=\ETTIDFFW\1BPQLXCOR\ODWJAMWQ|Kind=1|AlternatePart=
+Variation13=Designator=R21B|UniqueId=\ETTIDFFW\2BPQLXCOR\ODWJAMWQ|Kind=1|AlternatePart=
+Variation14=Designator=R26A|UniqueId=\ETTIDFFW\1BPQLXCOR\FFIYOWTA|Kind=1|AlternatePart=
+Variation15=Designator=R30A|UniqueId=\ETTIDFFW\1BPQLXCOR\PZYGQRAJ|Kind=1|AlternatePart=
+Variation16=Designator=R26B|UniqueId=\ETTIDFFW\2BPQLXCOR\FFIYOWTA|Kind=1|AlternatePart=
+Variation17=Designator=R30B|UniqueId=\ETTIDFFW\2BPQLXCOR\PZYGQRAJ|Kind=1|AlternatePart=
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for FIT_PM_Dual_Range_AFE\BGA Escape Route - FIT_PM_Dual_Range_AFE.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for FIT_PM_Dual_Range_AFE\Design Rule Check - FIT_PM_Dual_Range_AFE.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for FIT_PM12\Design Rule Check - PM12.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Prod\ExportSTEP\FIT_PM12_vrev([No Variations]).step
-DItemRevisionGUID=
 
 [Parameter1]
 Name=rev
@@ -1385,15 +1375,15 @@ Type161=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
+L2=NNNNNNNWNNNWNWNWN
+L3=NNEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
-L10=NWNNNNNENNEWNNEWN
+L9=NNEENEEEENEWNEEWW
+L10=NNNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
