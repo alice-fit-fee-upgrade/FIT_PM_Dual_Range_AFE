@@ -458,17 +458,25 @@ Variation8=Designator=R152B|UniqueId=\2OXSRVPKN\JVRBBTOC\BMZLHGCO|Kind=1|Alterna
 Variation9=Designator=R153B|UniqueId=\2OXSRVPKN\JVRBBTOC\PJQMPPQY|Kind=1|AlternatePart=
 Variation10=Designator=R154B|UniqueId=\2OXSRVPKN\JVRBBTOC\ARZDUJLN|Kind=1|AlternatePart=
 Variation11=Designator=R155B|UniqueId=\2OXSRVPKN\JVRBBTOC\EYCJHHLF|Kind=1|AlternatePart=
-Variation12=Designator=R21A|UniqueId=\ETTIDFFW\1BPQLXCOR\ODWJAMWQ|Kind=1|AlternatePart=
-Variation13=Designator=R21B|UniqueId=\ETTIDFFW\2BPQLXCOR\ODWJAMWQ|Kind=1|AlternatePart=
-Variation14=Designator=R26A|UniqueId=\ETTIDFFW\1BPQLXCOR\FFIYOWTA|Kind=1|AlternatePart=
-Variation15=Designator=R30A|UniqueId=\ETTIDFFW\1BPQLXCOR\PZYGQRAJ|Kind=1|AlternatePart=
-Variation16=Designator=R26B|UniqueId=\ETTIDFFW\2BPQLXCOR\FFIYOWTA|Kind=1|AlternatePart=
-Variation17=Designator=R30B|UniqueId=\ETTIDFFW\2BPQLXCOR\PZYGQRAJ|Kind=1|AlternatePart=
+Variation12=Designator=R21A|UniqueId=\ETTIDFFW\1BPQLXCOR\QIDTBSKN|Kind=1|AlternatePart=
+Variation13=Designator=R26A|UniqueId=\ETTIDFFW\1BPQLXCOR\HJYHKMQV|Kind=1|AlternatePart=
+Variation14=Designator=R30A|UniqueId=\ETTIDFFW\1BPQLXCOR\YWRSMDPY|Kind=1|AlternatePart=
+Variation15=Designator=R21B|UniqueId=\ETTIDFFW\2BPQLXCOR\QIDTBSKN|Kind=1|AlternatePart=
+Variation16=Designator=R26B|UniqueId=\ETTIDFFW\2BPQLXCOR\HJYHKMQV|Kind=1|AlternatePart=
+Variation17=Designator=R30B|UniqueId=\ETTIDFFW\2BPQLXCOR\YWRSMDPY|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FIT_PM_Dual_Range_AFE\Design Rule Check - FIT_PM_Dual_Range_AFE.html
+DItemRevisionGUID=
+
 [Parameter1]
+Name=
+Value=
+
+[Parameter2]
 Name=rev
-Value=1.0
+Value=2.0
 
 [Configuration1]
 Name=Sources
